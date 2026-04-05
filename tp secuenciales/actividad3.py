@@ -1,0 +1,5 @@
+name = input('Ingrese su nombre: ')
+surname = input('Ingrese su apellido: ')
+age:int = input('Ingrese su edad: ')
+town = input('Ingrese su ciudad: ')
+print('Soy '+name+' '+surname+', tengo '+age+' años y vivo en '+town)

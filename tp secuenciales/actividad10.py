@@ -1,0 +1,6 @@
+print('Escriba 3 numeros para hacer un promedio de ellos')
+num1=float(input())
+num2=float(input())
+num3=float(input())
+promedio=float((num1+num2+num3) / 3)
+print('Su promedio es: '+str(promedio))
